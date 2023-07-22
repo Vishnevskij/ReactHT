@@ -1,0 +1,28 @@
+.counter {
+    width: 100%;
+    background: darkgray;
+    padding: 20px;
+}
+
+.counter button {
+    font-size: 20px;
+    min-width: 150px;
+    margin: 5px;
+}
+
+.counter h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.counter h1 span {
+    margin-left: 20px;
+}
+
+.user-card {
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    background: darkgray;
+    margin: 5px;
+}
